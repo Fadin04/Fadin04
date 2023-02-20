@@ -2,11 +2,9 @@
 
 * ***
 
-
-
-* Developer for Final Destination Roleplay: https://discord.gg/fdrp
-* Founder of FDRP
-* Experienced Developer
-* Livery Developer - FiveM / GTA 5 Story Mode
-* Learning FiveM Non-ELS Development
-* Partially Learning EUP Development
+|  About Me  |  Eventually Learning   |
+|----|-----|
+| Developer for FDRP: https://discord.gg/fdrp | Learning FiveM Non-ELS Development    |
+| Founder of FDRP | Partially Learning EUP Development |
+| Experienced Developer | My website: [Link](https://www.fdrpofficial.com/home) |
+| Livery Developer - FiveM / GTA 5 Story Mode | My CFX Page: [Link](https://forum.cfx.re/u/fadin_laws/summary) |
