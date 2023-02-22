@@ -4,7 +4,7 @@
 
 * ***
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%34faff&size=12&vCenter=true&height=19&lines=👋+Hello!+My+Name+Is+Fadin!+I+Enjoy+Developing+New+Things!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%34faff&size=12&vCenter=true&height=19&lines=👋+Hello!+My+Name+Is+Fadin!+I+Enjoy+Making+New+Things+Everyday!">
 </p>
 
 <p align="center">
