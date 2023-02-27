@@ -18,9 +18,9 @@
   
 |  ___About me___        |                ___Links & Info___                      |   ___Learning More___    |    ___Top Releases___    |
 |   :---:                |       :-----------------------------------:            |    :---------------:     |    :---------------:     |
-| Dev for FDRP           | [CFX Page](https://forum.cfx.re/u/fadin_laws/summary)  |     Non-ELS Deving       | [LA-Style Liveries](https://github.com/Fadin04/LA-Based-Liveries)    |
+| Dev for FDRP           | [CFX Page](https://forum.cfx.re/u/fadin_laws/summary)  |     Non-ELS Deving       | [SimpleCore](https://github.com/Fadin04/SimpleCore)    |
 | Founder of FDRP        | [FDRP Server](https://discord.gg/fdrp)                 |       EUP Deving         | [Realistic Weapon Wheel](https://github.com/Fadin04/Realistic-Weapon-Hud-Colored-Radio-Wheel) |
-| Livery Dev            | [My Website](https://www.fdrpofficial.com/home)        | Advanced Livery Deving   | [Pre-made Ace Perms \(vMenu)](https://github.com/Fadin04/pre-made-vmenu-perms) |
+| Livery Dev            | [My Website](https://www.fdrpofficial.com/home)        | Advanced Livery Deving   | [LA-Style Liveries](https://github.com/Fadin04/LA-Based-Liveries) |
 | Expereinced Dev        | [Deving Server]()                                      |        Scriping          | [Sandy gas station ymap](https://github.com/Fadin04/Sandy-Panorama-Gas-Station-ymap) |
 </p>
 
