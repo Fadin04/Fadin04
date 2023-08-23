@@ -15,14 +15,6 @@
 </p>
 
 <p align="center">
-  
-|  ___About me___        |                ___Links & Info___                      |   ___Learning More___    |    ___Top Releases___    |
-|   :---:                |       :-----------------------------------:            |    :---------------:     |    :---------------:     |
-| [Dev for SSARP](https://discord.gg/ssarp)           | [CFX Page](https://forum.cfx.re/u/fadin_laws/summary)  |     Non-ELS Deving       | [SimpleCore](https://github.com/Fadin04/SimpleCore)    |
-| Support for NAT2K15 Development        | [NAT2K15's Server](https://discord.gg/nat2k15-development-778812156925181966)                 |       EUP Deving         | [Realistic Weapon Wheel](https://github.com/Fadin04/Realistic-Weapon-Hud-Colored-Radio-Wheel) |
-| Livery Dev            | [My Website](https://www.fdrpofficial.com/home)        | Advanced Livery Deving   | [LA-Style Liveries](https://github.com/Fadin04/LA-Based-Liveries) |
-| Expereinced Dev        | [Deving Server](https://discord.gg/steeltech)                                      |        Scriping          | [Sandy gas station ymap](https://github.com/Fadin04/Sandy-Panorama-Gas-Station-ymap) |
-</p>
 
 * ***
 
