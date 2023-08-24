@@ -1,5 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/77021072/219941676-f1419011-7f38-4fbf-881d-3ad738650bb7.png)
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ssarp)
 
 * ***
@@ -9,9 +7,6 @@
 
 <p align="center">
 - 🛠 Lead Developer of : <a href="https://discord.gg/ssarp">State of San Andreas Roleplay!</a>
-</p>
-<p align="center">
-- ⚙ Community Manager of : <a href="https://discord.gg/ssarp">State of San Andreas Roleplay!</a>
 </p>
 
 <p align="center">
