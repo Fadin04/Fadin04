@@ -14,9 +14,11 @@
 
 ## Join server's I am apart of!
 
-**State of San Andreas Roleplay:** [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat&logo=Discord&logoColor=white&color=ff69b4)](https://discord.gg/ssarp)
+**State of San Andreas Roleplay:** [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat&logo=Discord&logoColor=white&color=fa9d00)](https://discord.gg/ssarp)
 
-**NAT2K15 Development:** [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat&logo=Discord&logoColor=white&color=ff69b4)](https://discord.gg/nat2k15-development-778812156925181966)
+**NAT2K15 Development:** [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat&logo=Discord&logoColor=white&color=0c00ff)](https://discord.gg/nat2k15-development-778812156925181966)
+
+**Simple Developments:tm:**: [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat&logo=Discord&logoColor=white&color=a8c300)](https://discord.gg/nat2k15-development-778812156925181966) (Home of SimpleCore)
 
 ***
 
